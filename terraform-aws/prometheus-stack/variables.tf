@@ -4,7 +4,7 @@ variable "region" {
 }
 
 variable "volume-size" {
-  type = number
+  type        = number
 }
 
 variable "ami_id" {
